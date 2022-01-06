@@ -1,6 +1,6 @@
 var sites = [
-    'https://www.lukassanner.de/madlenakirchhoff/survey/a',
-    'https://www.lukassanner.de/madlenakirchhoff/survey/b'
+    'https://survey.uni-hannover.de/index.php/991545?lang=de',
+    'https://survey.uni-hannover.de/index.php/714787?lang=de '
 ];
 
 function randomSite() {
