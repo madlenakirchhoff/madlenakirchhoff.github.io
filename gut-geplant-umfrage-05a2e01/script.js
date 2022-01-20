@@ -1,6 +1,5 @@
 var sites = [
-    'https://survey.uni-hannover.de/index.php/991545?lang=de',
-    'https://survey.uni-hannover.de/index.php/714787?lang=de '
+    'https://survey.uni-hannover.de/index.php/991545?lang=de'
 ];
 
 function randomSite() {
